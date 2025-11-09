@@ -22,6 +22,3 @@ A minimal real-time collaborative drawing application (Vanilla JS + Node.js + So
 
 ## Time spent
 ~6 hours (prototype)
-=======
-# Collaborative-Basic-Canvas
->>>>>>> e4e83795a2190feb1475c393948b3416f700562a
