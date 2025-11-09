@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Collaborative Canvas
 
 A minimal real-time collaborative drawing application (Vanilla JS + Node.js + Socket.io).
